@@ -1,0 +1,23 @@
+table{
+    border: 1px solid black;
+    empty-cells: show;
+    border-collapse: collapse;
+    width: 50%;
+    border-spacing: 60px 60px;
+    text-align: center;
+    font-family: sans-serif;
+}
+th{
+    background-color:rgb(205, 42, 69);
+    color: white;
+}
+.blue{
+    color:blue;
+}
+.orange{
+    background-color:orange;
+}
+.white{
+    background-color: white;
+}
+
